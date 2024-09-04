@@ -10,9 +10,9 @@ Read "Num(2) as b"
 OUTPUT"Enter Third Number"
 Read "Num(3) as c"
 // Conditional statements 
-if(Num(1)<Num(2)&& Num(1)<Num(3))
+if(a<b&& a<c)
 Print"a is the smallest number"
-elseif((Num(2)<Num(1)&& Num(2)<Num(3))
+elseif((b<a&& b<c)
 Print"b is the smallest number"
 else 
 print"c is the smallest number"
