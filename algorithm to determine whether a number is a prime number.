@@ -1,7 +1,7 @@
 // Write an algorithm to determine whether a number is a prime number. 
-Ask the user to Enter a Number
-set i to 2 
-Initialize loop counter for all values until(i<n)
-if Number%2 is equal to 0 OR Num%i is equal to 0
- if yes,Display"not a prime number"
- if no,Display"prime Number"
+Step 1:Ask the user to Enter a Number
+Step 2:set i to 2 
+Step 3:Initialize loop counter for all values until(i<n)
+Step 4:if Number%2 is equal to 0 OR Num%i is equal to 0
+Step 5: if yes,Display"not a prime number"
+  Step 6:if no,Display"prime Number"
