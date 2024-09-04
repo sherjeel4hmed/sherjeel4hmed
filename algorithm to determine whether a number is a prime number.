@@ -3,6 +3,5 @@ Ask the user to Enter a Number
 set i to 2 
 Initialize loop counter for all values until(i<n)
 if Number%2 is equal to 0 OR Num%i is equal to 0
-Display"not a prime number"
-Else 
-Display"prime Number"
+ if yes,Display"not a prime number"
+ if no,Display"prime Number"
