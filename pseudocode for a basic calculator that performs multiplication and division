@@ -20,5 +20,6 @@ elseif(operator="/")
 Division=number1/number2
 print"Division"
 else 
+Endif 
 print"wrong operator"
 End 
