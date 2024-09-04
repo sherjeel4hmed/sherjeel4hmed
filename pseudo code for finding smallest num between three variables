@@ -1,0 +1,19 @@
+ // Pseudo code for finding the smallest number among three given variables 
+Start 
+// Initialization 
+ set a,b,c to zero
+// Input/Output
+OUTPUT"Enter First Number"
+Read "Num(1) as a"
+OUTPUT"Enter Second Number"
+Read "Num(2) as b"
+OUTPUT"Enter Third Number"
+Read "Num(3) as c"
+// Conditional statements 
+if(Num(1)<Num(2)&& Num(1)<Num(3))
+Print"a is the smallest number"
+elseif((Num(2)<Num(1)&& Num(2)<Num(3))
+Print"b is the smallest number"
+else 
+print"c is the smallest number"
+End 
