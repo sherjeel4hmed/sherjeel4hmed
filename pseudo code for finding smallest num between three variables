@@ -16,4 +16,5 @@ elseif((b<a&& b<c)
 Print"b is the smallest number"
 else 
 print"c is the smallest number"
+Endif
 End 
