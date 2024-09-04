@@ -1,0 +1,24 @@
+ // pseudocode for a basic calculator that performs multiplication and division.
+Start 
+// Input/Output
+OUTPUT"Enter First Number"
+Read First Number 
+OUTPUT"Enter Second Number"
+Read Second Number 
+OUTPUT"Enter Operator"
+Read Operator 
+// Initialization
+set Multiplication to 0
+set division to 0
+// Conditional Statements 
+If(operator="*") THEN
+// process
+Multiplication=number1*number2
+print"Multipication"
+elseif(operator="/")
+//process 
+Division=number1/number2
+print"Division"
+else 
+print"wrong operator"
+End 
