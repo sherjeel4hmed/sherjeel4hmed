@@ -1,0 +1,16 @@
+// pseudocode to subtract two numbers without using the - operator.
+start 
+// Input/Output
+OUTPUT"Enter First Number"
+Read First number
+OUTPUT"Enter Second Number"
+Read Second number 
+// Initialization
+Set result to 0
+// Process Steps 
+Result=~number2 // 1's complement 
+Result=Result+1 // 2's complement 
+Result=number1+Result
+print"Result"
+End 
+  
