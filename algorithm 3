@@ -1,0 +1,24 @@
+ask the user to enter day(1-365) 
+set remainder to(day MOD 7)
+if (remainder is equal to 0)
+display "sunday"
+elseif (remainder is equal to 1)
+display "Monday"
+elseif(remainder is equal to 2)
+display "tuesday"
+elseif(remainder is equal to 3)
+display "wednesday"
+elseif(remainder is equal to 4)
+display "Thrusday"
+elseif(remainder is equal to 5)
+display "friday"
+elseif(remainder is equal to 6)
+display "saturday"
+END IF 
+
+
+
+
+
+
+
