@@ -1,0 +1,8 @@
+ step 1 :ask the user to input two numbers,where num1>=num2
+step 2: if num1 MOD num2 is equal to 0
+if yes, print"num1 as GCD"
+if no,
+ step 3: set remainder to(num1/num2) 
+step 4 : replace num1 with num2 and num2 with remainder 
+step 5: repeat this process until num2 becomes zero
+step 6 :Display num1 as GCD
